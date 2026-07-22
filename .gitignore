@@ -1,0 +1,35 @@
+# Logs
+*.log
+
+# Temporary files
+*.tmp
+*.temp
+*.bak
+*.swp
+*~
+
+# Python
+__pycache__/
+*.py[cod]
+.ipynb_checkpoints/
+
+# VSCode
+.vscode/
+
+# JetBrains
+.idea/
+
+# macOS
+.DS_Store
+
+# Windows
+Thumbs.db
+
+# LibreOffice
+~$*
+
+# Generated artifacts
+*.aux
+*.toc
+*.out
+*.synctex.gz

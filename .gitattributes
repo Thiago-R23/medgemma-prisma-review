@@ -1,3 +1,14 @@
+* text=auto eol=lf
+
+*.csv text
+*.md text
+*.txt text
+*.bib text
+*.ris text
+*.png binary
+*.jpg binary
+*.jpeg binary
+*.pdf binary
 analysis/combined_search_results.csv filter=lfs diff=lfs merge=lfs -text
 screening/identified.csv filter=lfs diff=lfs merge=lfs -text
 screening/deduplicated.csv filter=lfs diff=lfs merge=lfs -text
