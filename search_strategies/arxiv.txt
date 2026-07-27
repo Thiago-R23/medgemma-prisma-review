@@ -1,0 +1,22 @@
+Strings e busca simples no Arxiv
+
+1 - VLMs
+"vision-language model" radiology
+"medical imaging" multimodal
+
+2 - MedGemma
+MedGemma
+
+3 - Edge
+edge radiology
+
+4 - Hardware
+NVIDIA Jetson Nano
+
+5- Quantização
+(quantization OR GGUF OR GGML OR INT4 OR INT8 OR QLoRA)
+AND
+(MedGemma OR Gemma OR multimodal)
+
+6 - Motor de Inferência
+llama.cpp OR GGUF

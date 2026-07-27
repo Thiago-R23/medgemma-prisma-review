@@ -1,0 +1,117 @@
+Strings e busca simples no IEE Xplore
+
+1 - Vision-Language Models
+(
+"vision-language model"
+OR "vision language model"
+OR "multimodal large language model"
+OR "medical vision-language model"
+OR MedGemma
+OR "LLaVA-Med"
+OR CheXagent
+OR RadFM
+OR XrayGPT
+OR BiomedGPT
+)
+AND
+(
+radiology
+OR "medical imaging"
+OR "diagnostic imaging"
+OR "chest X-ray"
+OR "chest radiograph"
+OR CXR
+OR pneumonia
+)
+
+2 - Edge AI
+(
+"edge AI"
+OR "edge computing"
+OR embedded
+OR "embedded AI"
+OR "on-device AI"
+OR "local inference"
+OR offline
+)
+AND
+(
+radiology
+OR "medical imaging"
+OR "medical image analysis"
+)
+3 - Hardware
+(
+"NVIDIA Jetson"
+OR Jetson
+OR "Jetson Orin"
+OR "Jetson Nano"
+)
+AND
+(
+radiology
+OR "medical imaging"
+OR "deep learning"
+OR AI
+)
+4 - Quantização
+(
+quantization
+OR quantisation
+OR GGUF
+OR GGML
+OR INT4
+OR INT8
+OR FP8
+OR QLoRA
+OR LoRA
+)
+AND
+(
+"vision-language model"
+OR multimodal
+OR MedGemma
+OR Gemma
+)
+5 - Eficiência
+(
+"vision-language model"
+OR MedGemma
+OR Gemma
+)
+AND
+(
+latency
+OR throughput
+OR memory
+OR inference
+OR efficiency
+OR benchmark
+)
+6 - Busca mista - Edge, Radiologia e VLMs
+(
+"vision-language model"
+OR "multimodal large language model"
+OR MedGemma
+OR "LLaVA-Med"
+OR CheXagent
+OR RadFM
+)
+AND
+(
+radiology
+OR "medical imaging"
+OR "chest X-ray"
+OR pneumonia
+)
+AND
+(
+"edge computing"
+OR "local inference"
+OR embedded
+OR "NVIDIA Jetson"
+OR Jetson
+OR quantization
+OR llama.cpp
+OR GGUF
+)

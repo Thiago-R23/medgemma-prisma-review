@@ -1,0 +1,34 @@
+Strings e buscas simples no pubmed:
+
+1 - IA Multimodal
+(
+multimodal[Title/Abstract]
+OR "foundation model*"[Title/Abstract]
+OR "large language model*"[Title/Abstract]
+OR "generative AI"[Title/Abstract]
+)
+AND
+(
+radiology[Title/Abstract]
+OR "medical imaging"[Title/Abstract]
+OR "diagnostic imaging"[Title/Abstract]
+OR "chest radiograph*"[Title/Abstract]
+OR "chest x-ray*"[Title/Abstract]
+OR CXR[Title/Abstract]
+)
+
+2  - IA em radiologia
+(
+  "artificial intelligence"[MeSH Terms]
+  OR "deep learning"[Title/Abstract]
+  OR "large language model"[Title/Abstract]
+)
+AND
+(
+  radiology[MeSH Terms]
+  OR "diagnostic imaging"[MeSH Terms]
+)
+
+3 - MedGemma
+MedGemma
+
