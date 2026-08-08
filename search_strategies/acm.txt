@@ -1,0 +1,168 @@
+Strings e busca simples na ACM Digital Library
+
+1 - VLMs
+(
+"vision-language model"
+OR "vision language models"
+OR "multimodal large language model"
+OR "medical vision-language model"
+OR MedGemma
+OR "LLaVA-Med"
+OR CheXagent
+OR RadFM
+OR XrayGPT
+OR BiomedGPT
+)
+AND
+(
+radiology
+OR "medical imaging"
+OR "diagnostic imaging"
+OR "chest X-ray"
+OR "chest radiograph"
+OR CXR
+OR pneumonia
+)
+
+2 - Edge AI
+(
+"edge AI"
+OR "edge computing"
+OR embedded
+OR "embedded AI"
+OR "local inference"
+OR offline
+OR "on-device AI"
+)
+AND
+(
+radiology
+OR "medical imaging"
+OR "medical image analysis"
+)
+
+3 - Nvidia Jetson
+(
+"NVIDIA Jetson"
+OR Jetson
+OR "Jetson Orin"
+OR "Jetson Nano"
+)
+AND
+(
+AI
+OR "deep learning"
+OR radiology
+OR "medical imaging"
+)
+
+4 - Quantização
+(
+quantization
+OR quantisation
+OR GGUF
+OR GGML
+OR INT4
+OR INT8
+OR FP8
+OR QLoRA
+OR LoRA
+)
+AND
+(
+MedGemma
+OR Gemma
+OR multimodal
+OR "vision-language model"
+)
+
+5 - Inferência
+(
+llama.cpp
+OR GGUF
+OR GGML
+)
+AND
+(
+MedGemma
+OR Gemma
+OR multimodal
+OR "vision-language model"
+)
+
+6 - Datasets
+(
+MedGemma
+OR "LLaVA-Med"
+OR CheXagent
+OR RadFM
+)
+AND
+(
+BRAX
+OR "MIMIC-CXR"
+OR CheXpert
+OR PadChest
+OR VinDr-CXR
+)
+
+7 - Eficiência
+(
+"vision-language model"
+OR MedGemma
+OR Gemma
+)
+AND
+(
+latency
+OR throughput
+OR memory
+OR inference
+OR efficiency
+OR benchmark
+)
+
+8 - Arquitetura para Inferência Local
+(
+"vision-language model"
+OR "multimodal large language model"
+OR MedGemma
+OR "LLaVA-Med"
+OR CheXagent
+OR RadFM
+)
+AND
+(
+radiology
+OR "medical imaging"
+OR "chest X-ray"
+OR pneumonia
+)
+AND
+(
+"edge computing"
+OR embedded
+OR "local inference"
+OR "NVIDIA Jetson"
+OR Jetson
+OR llama.cpp
+OR GGUF
+OR quantization
+)
+
+9 - Infraestrutura
+(
+llama.cpp
+OR GGUF
+OR "large language model"
+OR "multimodal model"
+)
+AND
+(
+"edge computing"
+OR embedded
+OR "NVIDIA Jetson"
+OR Jetson
+OR quantization
+OR inference
+)

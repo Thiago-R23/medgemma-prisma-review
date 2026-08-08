@@ -1,0 +1,45 @@
+String e busca simples no Google Scholar
+
+1 - VLMs
+"vision-language model" radiology
+multimodal radiology
+
+2 - Modelos médicos específicos
+MedGemma radiology
+CheXagent radiology
+"LLaVA-Med"
+
+4 - Radiografia de Tórax
+"chest X-ray" multimodal AI
+CXR multimodal
+
+5 - NVIDIA Jetson
+"NVIDIA Jetson" radiology
+"NVIDIA Jetson" "medical imaging"
+Jetson AI healthcare
+
+6 - Quantização
+quantization multimodal model
+GGUF MedGemma
+GGML multimodal
+QLoRA MedGemma
+
+7 - llama
+llama.cpp MedGemma
+llama.cpp multimodal
+llama.cpp radiology
+
+8 - Datasets
+MIMIC-CXR multimodal
+CheXpert multimodal
+BRAX radiology AI
+
+9 - Eficiência
+multimodal latency inference
+vision-language model benchmark
+medical multimodal benchmark
+
+10 - Busca integradora
+MedGemma radiology Jetson
+multimodal radiology edge computing
+"vision-language model" "medical imaging" Jetson
