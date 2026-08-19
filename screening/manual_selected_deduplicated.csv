@@ -1,0 +1,134 @@
+﻿record_id,title,authors,abstract,year,doi,pmid,venue,url,publication_type,source,source_database
+1,Chest X-Ray Report Generation Using Abnormality Guided Vision Language Model,,,,,,,https://ieeexplore.ieee.org/document/11153468,,,IEEE
+2,Med3DVLM: An Efficient Vision-Language Model for 3D Medical Image Analysis,,,,,,,https://ieeexplore.ieee.org/document/11145341,,,IEEE
+3,Multi-Scale Feature and Prompt Learning for Few-Shot Medical Image Anomaly Detection,,,,,,,https://ieeexplore.ieee.org/document/11381415,,,IEEE
+4,From Technical Prerequisites to Improved Care: Distributed Edge AI for Tomographic Imaging,,,,,,,https://ieeexplore.ieee.org/document/10843208,,,IEEE
+5,Privacy-Preserving Generative Adversarial Network for Case-Based Explainability in Medical Image Analysis,,,,,,,https://ieeexplore.ieee.org/document/9598877,,,IEEE
+6,Automatic Radiology Report Generator Using Transformer With Contrast-Based Image Enhancement,,,,,,,https://ieeexplore.ieee.org/document/10430201#full-text-header,,,IEEE
+7,A Survey on Multimodal Large Language Models in Radiology for Report Generation and Visual Question Answering,,,,,,,https://www.mdpi.com/2078-2489/16/2/136,,,Google Scholar
+8,RadVLM: A Multitask Conversational Vision-Language Model for Radiology,,,,,,,https://arxiv.org/abs/2502.03333,,,Google Scholar
+9,Do Multimodal Vision-Language Models Enhance the Medical Diagnostic Process? A Systematic Review,,,,,,,https://www.mdpi.com/2227-9032/14/13/1877,,,Google Scholar
+10,Vision-language foundation models for medical imaging: a review of current practices and innovations,,,,,,,https://link.springer.com/article/10.1007/s13534-025-00484-6,,,Google Scholar
+11,Auditing Medical Vision-Language Models on Chest Radiographs: Estimating Reference Agreement Across Institutions,,,,,,,https://arxiv.org/abs/2608.07550,,,Google Scholar
+12,Automated Structured Radiology Report Generation with Rich Clinical Context,,,,,,,https://arxiv.org/abs/2510.00428,,,Google Scholar
+13,How I Do It: Understanding and Leveraging Generative AI for Chest Radiology Reporting,,,,,,,https://pubs.rsna.org/doi/full/10.1148/radiol.253456,,,Google Scholar
+14,Scalable Training of Spatially Grounded 2D Vision-Language Models for Radiology,,,,,,,https://arxiv.org/abs/2606.20477,,,Google Scholar
+15,Advancing radiology foundation models with reasoning through step-by-step verification from daily reports,,,,,,,https://www.nature.com/articles/s43856-026-01654-y,,,Google Scholar
+16,"Harrison.Rad 1.5 Technical Report: A radiology foundation model that can draft reports from images, priors and clinical context",,,,,,,https://arxiv.org/abs/2607.05880,,,Google Scholar
+17,HERO: Hierarchical Evidential Reasoning Optimization for Radiology Report Generation via Reason-then-Summarize,,,,,,,https://arxiv.org/abs/2601.03321,,,Google Scholar
+18,"AnatomiX, an Anatomy-Aware Grounded Multimodal Large Language Model for Chest X-Ray Interpretation",,,,,,,https://arxiv.org/abs/2601.03191,,,Google Scholar
+19,A clinically accessible small multimodal radiology model and evaluation metric for chest X-ray findings,,,,,,,https://www.nature.com/articles/s41467-025-58344-x,,,Google Scholar
+20,ChestX-Transcribe: a multimodal transformer for automated radiology report generation from chest x-rays,,,,,,,https://www.frontiersin.org/journals/digital-health/articles/10.3389/fdgth.2025.1535168/full?utm_source=chatgpt.com,,,Google Scholar
+21,ChestX-VQA: AI Tool for Multimodal Chest X-ray,,,,,,,https://assets-eu.researchsquare.com/files/rs-7563215/v1_covered_2566e428-a3dd-4d99-9b0a-042151fa8cdf.pdf?c=1765990531,,,Google Scholar
+22,A Deep Learning Framework for Real-Time Image Processing in Medical Diagnostics: Enhancing Accuracy and Speed in Clinical Applications,,,,,,,https://arxiv.org/abs/2510.16611,,,Google Scholar
+23,Local edge computing for radiological image reconstruction and computer-assisted detection: A feasibility study,,,,,,,https://journal.fi/finjehew/article/view/122647,,,Google Scholar
+24,LLaMA32-Med: Parameter-Efficient Adaptation of Multimodal LLMs for Medical Visual Question Answering,,,,,,,https://openreview.net/forum?id=qGgZZwEeef#discussion,,,Google Scholar
+25,Multimodal artificial intelligence models for radiology,,,,,,,https://academic.oup.com/bjrai/article/2/1/ubae017/7959794,,,Google Scholar
+26,Assessing the Effectiveness of Transfer Learning in Chest X-Ray Analysis With the BRAX Dataset,,,,,,,https://ieeexplore.ieee.org/abstract/document/11165335,,,Google Scholar
+27,Towards Automatic Detection of Pneumothorax in Emergency Care with Deep Learning Using Multi-Source Chest X-ray Data,,,,,,,https://www.mdpi.com/1999-5903/17/7/292,,,Google Scholar
+28,Towards Comprehensive Benchmarking of Medical Vision Language Models,,,,,,,https://pmc.ncbi.nlm.nih.gov/articles/PMC12699743/,,,Google Scholar
+29,"Medical Vision-Language Models: Existing Technologies, Clinical Applications and Future Directions",,,,,,,https://www.mdpi.com/1424-8220/26/13/3998,,,Google Scholar
+30,Redefining Radiology A Review of Artificial Intelligence Integration in Medical Imaging,,,,,,,https://pubmed.ncbi.nlm.nih.gov/37685300/,,,PubMed
+31,Chest X-ray Foreign Objects Detection Using Artificial Intelligence,,,,,,,https://pubmed.ncbi.nlm.nih.gov/37762783/,,,PubMed
+32,Utilizing Longitudinal Chest X-Rays and Reports to Pre-Fill Radiology Reports,,,,,,,https://pubmed.ncbi.nlm.nih.gov/37502627/,,,PubMed
+33,AI-assisted detection for chest X-rays (AID-CXR): a multi-reader multi-case study protocol,,,,,,,https://pubmed.ncbi.nlm.nih.gov/39806695/,,,PubMed
+34,Artificial intelligence in radiology and diagnostic imaging,,,,,,,https://pubmed.ncbi.nlm.nih.gov/41170113/,,,PubMed
+35,Ethics of generative AI,,,,,,,https://pubmed.ncbi.nlm.nih.gov/36693706/,,,PubMed
+36,Embracing Large Language Models for Medical Applications: Opportunities and Challenges,,,,,,,https://pubmed.ncbi.nlm.nih.gov/37378099/,EviRAG:SIGIR '26: Proceedings of the 49th International ACM SIGIR Conference on Research and Development in Information Retrieval Pages 3753 - 3758,,PubMed
+37,It Might Be Time to Get Serious about Generative AI in Radiology,,,,,,,https://pubmed.ncbi.nlm.nih.gov/39404630/,,,PubMed
+38,Generative AI Reporting of Chest Radiographs Promise and Perspectives,,,,,,,https://pubmed.ncbi.nlm.nih.gov/40131104/,,,PubMed
+39,Generative AI and foundation models in medical image,,,,,,,https://pubmed.ncbi.nlm.nih.gov/41051729/,,,PubMed
+40,The impact of large language models on radiology: a guide for radiologists on the latest innovations in AI,,,,,,,https://pubmed.ncbi.nlm.nih.gov/38551772/,,,PubMed
+41,Potential of GPT-4 for Detecting Errors in Radiology Reports Implications for Reporting Accuracy,,,,,,,https://pubmed.ncbi.nlm.nih.gov/38625012/,,,PubMed
+42,Beyond Diagnosis: Evaluating Multimodal LLMs for Pathology Localization in Chest Radiographs,,,,,,,https://pubmed.ncbi.nlm.nih.gov/42231937/,,,PubMed
+43,Understanding Clinical Reasoning Variability in Medical Large Language Models: A Mechanistic Interpretability Study,,,,,,,https://pubmed.ncbi.nlm.nih.gov/41646812/,,,PubMed
+44,ReXVQA: A Large-scale Visual Question Answering Benchmark for Generalist Chest X-ray Understanding,,,,,,,https://pubmed.ncbi.nlm.nih.gov/41758146/,,,PubMed
+45,A Bilingual Benchmark for Evaluating Diagnostic Performance of Multimodal Large Language Models in Radiology (RadM-Bench): Evaluation Development and Validation,,,,,,,https://pubmed.ncbi.nlm.nih.gov/42566748/,,,PubMed
+46,Artificial Intelligence in Occupational Health Surveillance: Evaluating AI-Assisted ILO Classification of Radiographs of Pneumoconioses,,,,,,,https://pubmed.ncbi.nlm.nih.gov/42021753/,,,PubMed
+47,Zero-Shot Performance of Six Vision-Language Models for Lung Nodule Detection on Chest Radiographs,,,,,,,https://pubmed.ncbi.nlm.nih.gov/42554685/,,,PubMed
+48,Comparative evaluation of generative AI models for chest radiograph report generation in the emergency department,,,,,,,https://pubmed.ncbi.nlm.nih.gov/42268300/,,,PubMed
+49,SPARC-Rad: A Multimodal Benchmark Dataset and Evaluation Pipeline for Spatial and Anatomical Reasoning in Radiology Vision-Language Models,,,,,,,https://arxiv.org/abs/2608.00100,,,ArXiv
+50,XMedFusion: A Knowledge-Guided Multimodal Perception and Reasoning Framework for Autonomous Medical Systems,,,,,,,https://arxiv.org/abs/2606.14766,,,ArXiv
+51,CoDA: Exploring Chain-of-Distribution Attacks and Post-Hoc Token-Space Repair for Medical Vision-Language Models,,,,,,,https://arxiv.org/abs/2603.18545,,,ArXiv
+52,MedVL-SAM2: A unified 3D medical vision-language model for multimodal reasoning and prompt-driven segmentation,,,,,,,https://arxiv.org/abs/2601.09879,,,ArXiv
+53,Radiology's Last Exam (RadLE): Benchmarking Frontier Multimodal AI Against Human Experts and a Taxonomy of Visual Reasoning Errors in Radiology,,,,,,,https://arxiv.org/abs/2509.25559,,,ArXiv
+54,Intelligent Healthcare Imaging Platform: A VLM-Based Framework for Automated Medical Image Analysis and Clinical Report Generation,,,,,,,https://arxiv.org/abs/2509.13590,,,ArXiv
+55,NEURAL: Attention-Guided Pruning for Unified Multimodal Resource-Constrained Clinical Evaluation,,,,,,,https://arxiv.org/abs/2508.09715,,,ArXiv
+56,ConTEXTual Net: A Multimodal Vision-Language Model for Segmentation of Pneumothorax,,,,,,,https://arxiv.org/abs/2303.01615,,,ArXiv
+57,From Manuals to Maintenance: Fine-Tuning MedGemma for Multi-Modal Imaging System Support in Low-Resource Settings,,,,,,,https://arxiv.org/abs/2608.08896,,,ArXiv
+58,"Evaluation of Medical Vision Language Models HuluMed and MedGemma, and general purpose chatbots Gemma 3, ChatGPT Plus, and Claude Pro on real previously unseen wound images",,,,,,,https://arxiv.org/abs/2606.20723,,,ArXiv
+59,MedGemma 1.5 Technical Report,,,,,,,https://arxiv.org/abs/2604.05081,,,ArXiv
+60,MedGemma vs GPT-4: Open-Source and Proprietary Zero-shot Medical Disease Classification from Images,,,,,,,https://arxiv.org/abs/2512.23304,,,ArXiv
+61,Evaluating Prompting Strategies with MedGemma for Medical Order Extraction,,,,,,,https://arxiv.org/abs/2511.10583,,,ArXiv
+62,Google-MedGemma Based Abnormality Detection in Musculoskeletal radiographs,,,,,,,https://arxiv.org/abs/2511.05600,,,ArXiv
+63,Fine-Tuning MedGemma for Clinical Captioning to Enhance Multimodal RAG over Malaysia CPGs,,,,,,,https://arxiv.org/abs/2510.15418,,,ArXiv
+64,MedGemma Technical Report,,,,,,,https://arxiv.org/abs/2507.05201,,,ArXiv
+65,Training of SSD(Single Shot Detector) for Facial Detection using Nvidia Jetson Nano,,,,,,,https://arxiv.org/abs/2105.13906,,,ArXiv
+66,Benchmarking Deep Learning Models on NVIDIA Jetson Nano for Real-Time Systems: An Empirical Investigation,,,,,,,https://arxiv.org/abs/2406.17749,,,ArXiv
+67,Cross-Architecture Knowledge Distillation (KD) for Retinal Fundus Image Anomaly Detection on NVIDIA Jetson Nano,,,,,,,https://arxiv.org/abs/2506.18220,,,ArXiv
+68,Wire-Level Interrupt-to-Decision Latency of On-Sensor MLC versus Host Inference on the NVIDIA Jetson Orin Nano: A Pre-Registered Measurement Study,,,,,,,https://arxiv.org/abs/2606.00524,,,ArXiv
+69,"Forensic Implications of Localized AI: Artifact Analysis of Ollama, LM Studio, and llama.cpp",,,,,,,https://arxiv.org/abs/2603.23996,,,ArXiv
+70,"Production-Grade Local LLM Inference on Apple Silicon: A Comparative Study of MLX, MLC-LLM, Ollama, llama.cpp, and PyTorch MPS",,,,,,,https://arxiv.org/abs/2511.05502,,,ArXiv
+71,Optimization of Armv9 architecture general large language model inference performance based on Llama.cpp,,,,,,,https://arxiv.org/abs/2406.10816,,,ArXiv
+72,Mind the Gap: A Practical Attack on GGUF Quantization,,,,,,,https://arxiv.org/abs/2505.23786,,,ArXiv
+73,Holding the FP8 Quality Ceiling at 8-Bit Weights and Activations: INT8 and GGUF Post-Training Quantization of Ideogram 4.0 for Consumer GPUs,,,,,,,https://arxiv.org/abs/2606.12280,,,ArXiv
+74,"CMA-ES Decoding: GECCO '26 Companion: Anais da Conferência de Computação Genética e Evolutiva, Páginas 1441–1447",,,,,,,https://doi.org/10.1145/3795101.3814726,,,ACM Digital Library
+75,Taming Vision: ICMR '25: Proceedings of the 2025 International Conference on Multimedia RetrievalPages 303–311,,,,,,,https://doi.org/10.1145/3731715.3733441,,,ACM Digital Library
+76,EviRAG:SIGIR '26: Proceedings of the 49th International ACM SIGIR Conference on Research and Development in Information Retrieval Pages 3753 - 3758,,,,,,,https://doi.org/10.1145/3805712.3809930,,,ACM Digital Library
+77,Vision-Language: VLM4Bio'24: Proceedings of the First International Workshop on Vision-Language Models for Biomedical Applications Pages 1 - 2,,,,,,,https://doi.org/10.1145/3689096.3690770,,,ACM Digital Library
+78,Why Only 3D for 3D: KDD '26: Proceedings of the 32nd ACM SIGKDD Conference on Knowledge Discovery and Data Mining V.2 Pages 12997 - 13007,,,,,,,https://doi.org/10.1145/3770855.381897,,,ACM Digital Library
+79,Test-Time Adaptation of Medical Vision-Language Models with Mixture of Modality Experts,"Hancong Wang, Yue Yu, Hairong Zheng, Tong Zhang",,,,,,https://doi.org/10.1145/3746027.3755543,,,ACM Digital Library
+80,Investigating Robustness in Vision-Language Models via Adversarial Prompt Illumination,"Thai Huy Nguyen, Khoa Tran, Quan Minh Phan, Ngoc Hoang Luong",,,,,,https://doi.org/10.1145/3795095.3805104,,,ACM Digital Library
+81,Uc-PrUn: Uncertainty-Calibrated Machine Unlearning using Vision–Language Models for Clinical Decision Support,"Farhan Sheth, Mohd Mujtaba Akhtar, Girish, Muskaan Singh, Alexander Davey",,,,,,https://doi.org/10.1145/3820497,,,ACM Digital Library
+82,MeDKCoOp: Dual Knowledge-guided Graph Prompt Learning for Biomedical Vision-Language Models,"Yijun Wang, Siying Wu, Lubin Gan, Zheyu Zhang, Jing Zhang, Zhangchi Hu, Huyue Zhu, Peixi Wu, Xiaoyan Sun",,,,,,https://doi.org/10.1145/3746027.3755135,,,ACM Digital Library
+83,Physics-informed Machine Learning for Medical Image Analysis,"Chayan Banerjee, Kien Nguyen, Olivier Salvado, Truyen Tran, Clinton Fookes",,,,,,https://doi.org/10.1145/3768158,,,ACM Digital Library
+84,Fair Foundation Models for Medical Image Analysis: Challenges and Perspectives,"Dilermando Queiroz, Anderson Carlos, André Anjos, Lilian Berton",,,,,,https://doi.org/10.1145/3793542,,,ACM Digital Library
+85,Auction-based Incentive Mechanism Design for Federated Learning in Medical Image Analysis,Lianghong Peng,,,,,,https://doi.org/10.1145/3773365.3773586,,,ACM Digital Library
+86,Survey on Adversarial Attack and Defense for Medical Image Analysis: Methods and Challenges,"Junhao Dong, Junxi Chen, Xiaohua Xie, Jianhuang Lai, Hao Chen",,,,,,https://doi.org/10.1145/3702638,,,ACM Digital Library
+87,Learning Joint Text and Visual Tokens in CLIP for Medical Image Analysis,"Raffaele Mineo, Giovanni Bellitto, Federica Proietto Salanitri, Rutger Hendrix, Concetto Spampinato, Simone Palazzo",,,,,,https://doi.org/10.1145/3728424.3760770,,,ACM Digital Library
+88,Edge-Deployed Lightweight LLMs for Medical Imaging: Real-Time Dual Report Generation with Progression Aware Summarization,"Vikas Hassija, Sparsh Bajoria, Adhitya M, Vinay Chamola",,,,,,https://doi.org/10.1145/3796263.3796284,,,ACM Digital Library
+89,When Many Minds Focus: A Review of Attention-Enhanced Ensemble Models in Medical Imaging,"Thabang Fenge Isaka, Claire Wynne, Jane Courtney",,,,,,https://doi.org/10.1145/3820158,,,ACM Digital Library
+90,Continual Learning in Medical Imaging: A Survey and Practical Analysis,"Mohammad Areeb Qazi, Anees Ur Rehman Hashmi, Santosh Sanjeev, Ibrahim Almakky, Numan Saeed, Camila González, Mohammad Yaqub",,,,,,https://doi.org/10.1145/3785663,,,ACM Digital Library
+91,"In the Picture: Medical Imaging Datasets, Artifacts, and their Living Review","Amelia Jiménez-Sánchez, Natalia-Rozalia Avlona, Sarah de Boer, Víctor M. Campello, Aasa Feragen, Enzo Ferrante, Melanie Ganz, Judy Wawira Gichoya, Camila Gonzalez, Steff Groefsema, + 19",,,,,,https://doi.org/10.1145/3715275.3732035,,,ACM Digital Library
+92,Real-Time Dress Code Detection using MobileNetV2 Transfer Learning on NVIDIA Jetson Nano,"Laxmi Kantham Durgam, Ravi Kumar Jatoth",,,,,,https://doi.org/10.1145/3638985.3638987,,,ACM Digital Library
+93,Edge AI for Aviation Traffic Forecasting A Weather-Aware System on Jetson Orin Nano,"Michal Niemczyk, Mariusz Mol",,,,,,https://doi.org/10.1145/3788149.3788152,,,ACM Digital Library
+94,Pedestrian recognition method based on Jetson nano,"Lemei Zhang, Yu Xin, Letao Zhang",,,,,,https://doi.org/10.1145/3617695.3617715,,,ACM Digital Library
+95,OpenMP Offloading in the Jetson Nano Platform,"Ilias K. Kasmeridis, Vassilios V. Dimakopoulos",,,,,,https://doi.org/10.1145/3547276.3548517,,,ACM Digital Library
+96,Optimizing Deep Learning Based Autonomous Driving Applications on Edge Devices,"Ishparsh Uprety, Griffen Agnello, Xinghui Zhao",,,,,,https://doi.org/10.1145/3766069,,,ACM Digital Library
+97,Deep Learning Workload Mapping Optimization on Jetson Platforms,"Farui Wang, Meng Hao, Siyu Yang, Weizhe Zhang",,,,,,https://doi.org/10.1145/3736175,,,ACM Digital Library
+98,Autonomous Vehicle Control Using a Deep Neural Network and Jetson Nano,"Rocco Febbo, Brendan Flood, Julian Halloy, Patrick Lau, Kwai Wong, Alan Ayala",,,,,,https://doi.org/10.1145/3311790.3396669,,,ACM Digital Library
+99,LVLM-MIR: Large Vision-Language Model with Parameter-Efficient Fine-Tuning for Multimodal Interleaved Reasoning,"Jun Yu, Xilong Lu, Cong Wang, Qiang Ling",,,,,,https://doi.org/10.1145/3746027.3762002,,,ACM Digital Library
+100,GeoMag: A Vision-Language Model for Pixel-level Fine-Grained Remote Sensing Image Parsing,"Xianzhi Ma, Jianhui Li, Changhua Pei, Hao Liu",,,,,,https://doi.org/10.1145/3746027.3754559,,,ACM Digital Library
+101,MM-Skin: Enhancing Dermatology Vision-Language Model with an Image-Text Dataset Derived from Textbooks,"Wenqi Zeng, Yuqi Sun, Chenxi Ma, Weimin Tan, Bo Yan",,,,,,https://doi.org/10.1145/3746027.3755187,,,ACM Digital Library
+102,Progressive Semantic Residual Quantization for Multimodal-Joint Interest Modeling in Music Recommendation,"Shijia Wang, Tianpei Ouyang, Qiang Xiao, Dongjing Wang, Yintao Ren, Songpei Xu, Da Guo, Chuanjiang Luo",,,,,,https://doi.org/10.1145/3746252.3761579,,,ACM Digital Library
+103,MQuant: Unleashing the Inference Potential of Multimodal Large Language Models via Static Quantization,"Jiangyong Yu, Sifan Zhou, Dawei Yang, Shuoyu Li, Shuo Wang, Xing Hu, Chen Xu, Zukang Xu, Changyong Shu, Zhihang Yuan",,,,,,https://doi.org/10.1145/3746027.3755433,,,ACM Digital Library
+104,Toward an AI Director: Automating Live Presentations with Local Vision-Language Models,"Eugenio Giuseppe Nerelli, Alberto Robazza, Andrea Turchet, Mario Montagud Climent",,,,,,https://doi.org/10.1145/3788851.3815032,,,ACM Digital Library
+105,IndicMedQA: Multimodal Medical Query Analysis in Indian Languages,"Akash Ghosh, Arkadeep Acharya, Muhsin Muhsin, Aman Chadha, Vinija Jain, Setu Sinha, Sriparna Saha",,,,,,https://doi.org/10.1145/3833083,,,ACM Digital Library
+106,OSPC: Multimodal Harmful Content Detection using Fine-tuned Language Models,Bill Cai,,,,,,https://doi.org/10.1145/3589335.3665997,,,ACM Digital Library
+107,Vec-LUT: Vector Table Lookup for Parallel Ultra-Low-Bit LLM Inference on Edge Devices,"Xiangyu Li, Chengyu Yin, Weijun Wang, Jianyu Wei, Ting Cao, Yunxin Liu",,,,,,https://doi.org/10.1145/3745756.3809200,,,ACM Digital Library
+108,Leveraging LLMs for Attribute Definition and Value Extraction from User-Generated Texts on a C2C E-Commerce Platform,"Andre Rusli, Yuji Oshima, Yuki Yada",,,,,,https://doi.org/10.1145/3711542.3711599,,,ACM Digital Library
+109,EC-RAG: Evidence-Centric Retrieval-Augmented Generation for Medical Visual Question Answering,"Songming Li, Jun Long",,,,,,https://doi.org/10.1145/3805622.3810670,,,ACM Digital Library
+110,Medusa: Cross-Modal Transferable Adversarial Attacks on Multimodal Medical Retrieval-Augmented Generation,"Yingjia Shang, Yi Liu, Huimin Wang, Furong Li, Wenfang Sun, Chengyu Wu, Yefeng Zheng",,,,,,https://doi.org/10.1145/3770854.3780277,,,ACM Digital Library
+111,MGK-RAG: Multi-Granularity Knowledge Guided Retrieval-Augmented Generation for Radiology Report,"Jiaqing Ma, Xiaodong Yue, Yufei Chen, Jie Shi, Zhipeng Wei, Zeyu Jia",,,,,,https://doi.org/10.1145/3774904.3792924,,,ACM Digital Library
+112,MIRA: A Novel Framework for Fusing Modalities in Medical RAG,"Jinhong Wang, Tajamul Ashraf, Zongyan Han, Jorma Laaksonen, Rao Muhammad Anwer",,,,,,https://doi.org/10.1145/3746027.3755760,,,ACM Digital Library
+113,CheXPO: Preference Optimization for Chest X-ray VLMs with Counterfactual Rationale,"Xiao Liang, Jiawei Hu, Di Wang, Zhi Ma, Lin Zhao, Ronghan Li, Bo Wan, Quan Wang",,,,,,https://doi.org/10.1145/3746027.3754507,,,ACM Digital Library
+114,VLMCache: Efficient On-Device Vision-Language Model Inference,"Yinyuan Zhang, Daliang Xu, Zhiyang Chen, Chenghua Wang, Ying Zhang, Mengwei Xu, Gang Huang",,,,,,https://doi.org/10.1145/3745756.3809243,,,ACM Digital Library
+115,EvoVLMA: Evolutionary Vision-Language Model Adaptation,"Kun Ding, Ying Wang, Shiming Xiang",,,,,,https://doi.org/10.1145/3746027.3755520,,,ACM Digital Library
+116,VISOR: A Vision-Language Model-Based Test Oracle for Testing Robots,"Prasun Saurabh, Pablo Valle, Aitor Arrieta, Shaukat Ali, Paolo Arcaini",,,,,,https://doi.org/10.1145/3805760.3814910,,,ACM Digital Library
+117,StreamSense: Streaming Social Task Detection with Selective Vision–Language Model Routing,"Han Wang, Deyi Ji, Lanyun Zhu, Jiebo Luo, Roy Ka-Wei Lee",,,,,,https://doi.org/10.1145/3774904.3793046,,,ACM Digital Library
+118,A Vision-Language Model Agent for building code compliance,"Zeyang Zheng, Seyed Hamidreza Nabaei, Somayeh Asadi, Brad Campbell, Arsalan Heydarian",,,,,,https://doi.org/10.1145/3736425.3770118,,,ACM Digital Library
+119,Exploring a Collaborative Gamified Approach to Vision-Language Model Evaluation,"Fan Gao, Jenna Ren Mei Wang, Tomomi Sayuda, Miles Pennington, Yusuke Sugano",,,,,,https://doi.org/10.1145/3772363.3799410,,,ACM Digital Library
+120,Knowledge-Driven Vision-Language Model for Plexus Detection in Hirschsprung's Disease,"Youssef Megahed, Atallah Madi, Dina El Demellawy, Adrian D. C. Chan",,,,,,https://doi.org/10.1145/3787279.3787326,,,ACM Digital Library
+121,RehabGen: Generative Expert-in-the-Loop Vision-Language Model for Everyday Contextualized Rehabilitation Exercises,"Youjin Sung, Heejin Jeong, Xuhai Xu, Sang Ho Yoon",,,,,,https://doi.org/10.1145/3810235,,,ACM Digital Library
+122,FUSE-RAG: Few-Shot Universal Segmentation with Retrieval-Augmented Generation for Medical Imaging,"Mohamed Lamine Allaoui, Mohand Saïd Allili, Belaid Ahror",,,,,,https://doi.org/10.1145/3807452,,,ACM Digital Library
+123,MMLM-CA: A Multimodal Large Language Model Framework for Automated Insurance Claims Adjudication Integrating Policy Document Understanding and Visual Damage Assessment,"Jiayi Miao, Zhanqing Su, Xiaojun Xiao",,,,,,https://doi.org/10.1145/3797161.3797170,,,ACM Digital Library
+124,Vision-Language Model-Assisted Active Learning for High-Accuracy Defect Detection in Automotive Bushing Components,"Shikun Chen, Yangguang Liu",,,,,,https://doi.org/10.1145/3788731.3788733,,,ACM Digital Library
+125,Adaptive Scheduling of Multimodal Large Language Model in Intelligent Edge Computing,"Xingyu Yuan, He Li, Mianxiong Dong, Kaoru Ota",,,,,,https://doi.org/10.1145/3774908,,,ACM Digital Library
+126,Benchmarking and Characterization of Large Language Model Inference on Apple Silicon,"Afsara Benazir, Felix Xiaozhu Lin",,,,,,https://doi.org/10.1145/3801489.3806865,,,ACM Digital Library
+127,Solving Repeated Games with Large Language Model,"Naming Liu, Youzhi Zhang, Ying Wen",,,,,,https://doi.org/10.65109/IRTM9736,,,ACM Digital Library
+128,Large Language Model for OWL Proofs,"Hui Yang, Jiaoyan Chen, Uli Sattler",,,,,,https://doi.org/10.1145/3774904.3792395,,,ACM Digital Library
+129,PF-LLM: Large Language Model Hinted Hardware Prefetching,"Ceyu Xu, Xiangfeng Sun, Weihang Li, Chen Bai, Bangyan Wang, Mengming Li, Zhiyao Xie, Yuan Xie",,,,,,https://doi.org/10.1145/3779212.3790202,,,ACM Digital Library
+130,SpeedLLM: An FPGA Co-design of Large Language Model Inference Accelerator,"Peipei Wang, Wu Guan, Liping Liang, Zhijun Wang, Hanqing Luo, Zhibin Zhang",,,,,,https://doi.org/10.1145/3731545.3735115,,,ACM Digital Library
+131,Invited Paper: Experimental Analysis of Distributed Agentic Large-Language Model Inference Architectures,"Kartik Padalkar, Vitor Jesus, Jose M. Alcaraz Calero",,,,,,https://doi.org/10.1145/3820355.3820384,,,ACM Digital Library
+132,CFALR: Collaborative Filtering-Augmented Large Language Model for Personalized Fashion Outfit Recommendation,"Yujuan Ding, Junrong Liao, Yunshan Ma, Yi Bin, Wenqi Fan, Tat-Seng Chua, Qing Li",,,,,,https://doi.org/10.1145/3829367,,,ACM Digital Library
+133,Prompt Inference Attack on Distributed Large Language Model Inference Frameworks,"Xinjian Luo, Ting Yu, Xiaokui Xiao",,,,,,https://doi.org/10.1145/3719027.3744820,,,ACM Digital Library
